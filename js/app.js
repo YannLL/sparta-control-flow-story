@@ -208,6 +208,7 @@ var msOrFood = prompt ("This is the kind of weird event you love to discuss with
   switch (ending){
   case ("#001100"):
     alert(youWin);
+    window.location.replace("https://www.youtube.com/embed/xE6q5T9bXyI?autoplay=1");
     location.reload(forceGet);
     break;
 
