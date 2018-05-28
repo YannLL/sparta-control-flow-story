@@ -105,7 +105,7 @@ var msOrFood = prompt ("This is the kind of weird event you love to discuss with
       alert(takeAwayFood)} else {
         alert("Player input failed - Please restart the game");
         location.reload(forceGet);
-      }
+    }
 
   var jellyBeans = prompt ("On your way back to your apartment, Henriette is standing by your front door. She thanks you for being so helpful to her and wants you to try some of her homemade jellybeans. \nShe says 'I am still learning the recipe but I know how to make red and blue jellybeans \nWhat jellybeans would you like to try? \n(a)-Take the red jellybeans \n(b)-Take the blue jellybeans")
 
